@@ -1,0 +1,2 @@
+# eGregore
+Greg for short
